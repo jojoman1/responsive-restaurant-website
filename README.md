@@ -6,7 +6,7 @@ A modern and fully responsive restaurant website built with HTML, CSS, and JavaS
 
 ## 🔗 Live Demo
 
-👉 [View Website on GitHub Pages](https://jojoman1.github.io/responsive-restaurant-website/) *(Enable Pages in repo settings if not yet)*
+👉 [View Website on GitHub Pages]([https://jojoman1.github.io/responsive-restaurant-website/](https://jojoman1.github.io/responsive-restaurant-website/Responsive-Restaurant-Website-main/index.html)) *(Enable Pages in repo settings if not yet)*
 
 ---
 
