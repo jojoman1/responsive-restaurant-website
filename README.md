@@ -12,7 +12,7 @@ A modern and fully responsive restaurant website built with HTML, CSS, and JavaS
 
 ## 📸 Preview
 
-![Preview](screenshot.png) <!-- Replace with your screenshot image -->
+![Preview](Screenshot.png) <!-- Replace with your screenshot image -->
 
 ---
 
